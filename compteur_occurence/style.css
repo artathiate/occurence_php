@@ -1,0 +1,28 @@
+#block{
+	width: 500px;
+	height: 300px;
+	border: 2px solid grey;
+}
+h1{
+	color: green ;
+	border-radius: : 1px;
+
+}
+textarea{
+	
+	color: green;
+	height: 90px;
+	width: 250px;
+
+}
+input{
+
+	height: 90px;
+	width: 250px;
+	color: green;
+}
+.bnt{
+	position: relative;
+	height: 30px;
+	width: 100px;
+}
